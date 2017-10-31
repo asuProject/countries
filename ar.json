@@ -1,0 +1,38 @@
+{
+  "Add": "أضافة",
+  "Edit": "تعديل",
+  "Delete": "حذف",
+
+  "Added": "تمت الأضافة بنجاح",
+  "Updated": "تم التحديث بنجاح",
+  "Deleted": "تم الحذف بنجاح",
+
+  "country name": "اسم الدولة",
+  "country code": "كود الدولة",
+  "code":"الكود",
+  "country":"الدولة",
+  "countries":"الدول",
+
+  "choose country":"أختار اسم الدولة",
+  "city name":"اسم المدينة",
+  "city":"المدينة",
+  "cities":"المدن",
+
+
+  "View countries": "قائمة الدول",
+  "Add country": "إضافة دولة",
+  "Edit country": "تعديل دولة",
+  "Delete country": "حذف دولة",
+  "Delete country Confirmation": "هل انت متاكد من حذف هذه الدولة", 
+
+
+  "View cities": "قائمة المدن",
+  "Add city": "إضافة مدينة",
+  "Edit city": "تعديل مدينة",
+  "Delete city": "حذف مدينة",
+  "Delete city Confirmation": "هل انت متاكد من حذف هذه المدينة",
+
+
+
+
+}
